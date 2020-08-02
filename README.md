@@ -10,7 +10,7 @@ The Easy Way
 Watch our Video for Create own Bot - 👉 https://youtu.be/yYHrSnuYXpA
 
 You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
-Deploy
+[Deploy](https://www.heroku.com/deploy?template=https://github.com/erichdanikeninfo/TG-Rename-Bot)
 
 upgrade your subscription for @AnyDLBot without having to run anything on your own
 
